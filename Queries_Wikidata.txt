@@ -1,0 +1,182 @@
+QUERY 1 (de):
+
+SELECT ?schule ?schuleLabel ?koord ?adresse ?gründung ?jedeschuleID ?schulnummer
+       (GROUP_CONCAT(DISTINCT CONCAT(?ausbildungsberufeLabel, " [", COALESCE(?kldbLabel, "–"), "]"); separator="; ") AS ?ausbildungsberufe)
+       (GROUP_CONCAT(DISTINCT ?teil_vonLabel; separator="; ") AS ?teil_von)
+       (GROUP_CONCAT(DISTINCT ?bestehtAusLabel; separator="; ") AS ?besteht_aus)
+       (GROUP_CONCAT(DISTINCT STR(?website); separator="; ") AS ?website)
+WHERE {
+  VALUES ?typ_schule { wd:Q322563 wd:Q828973 wd:Q1650577 wd:Q829000 wd:Q23005337 }
+
+  ?schule wdt:P31 ?typ_schule ;
+          wdt:P17 wd:Q183 ;
+          wdt:P101 ?ausbildungsberufe .
+
+  # Nur Koordinaten ohne Endzeitpunkt
+  OPTIONAL {
+    ?schule p:P625 ?coordStmt .
+    ?coordStmt ps:P625 ?koord .
+    FILTER NOT EXISTS { ?coordStmt pq:P582 ?coordEnd. }
+  }
+
+  # Adresse nur ohne Endzeitpunkt
+  OPTIONAL {
+    ?schule p:P6375 ?addrStmt .
+    ?addrStmt ps:P6375 ?adresse .
+    FILTER NOT EXISTS { ?addrStmt pq:P582 ?addrEnd. }
+  }
+
+  OPTIONAL { ?ausbildungsberufe wdt:P1021 ?kldb. }
+  OPTIONAL { ?schule wdt:P361  ?teil_von. }
+  OPTIONAL { ?schule wdt:P527  ?bestehtAus. }
+  OPTIONAL { ?schule wdt:P856  ?website. }
+  OPTIONAL { ?schule wdt:P571  ?gründung. }
+  OPTIONAL { ?schule wdt:P9224 ?jedeschuleID. }
+
+  # Schulnummern (verschiedene Properties)
+  OPTIONAL { ?schule wdt:P12123 ?s1. }   # Schulnummer Typ 1
+  OPTIONAL { ?schule wdt:P12350 ?s2. }   # Schulnummer Typ 2
+  OPTIONAL { ?schule wdt:P13491 ?s3. }   # Schulnummer Typ 3
+  OPTIONAL { ?schule wdt:P12274 ?s4. }   # Schulnummer Typ 4
+  BIND(COALESCE(STR(?s1), STR(?s2), STR(?s3), STR(?s4)) AS ?schulnummer)
+
+  # Ausgeschlossene Fälle
+  FILTER NOT EXISTS { ?schule wdt:P576  ?aufloesung. }
+  FILTER NOT EXISTS { ?schule wdt:P1366 ?ersetztDurch. }
+  FILTER NOT EXISTS { ?schule wdt:P3999 ?schließung. }
+  FILTER NOT EXISTS { ?schule wdt:P31   wd:Q423208. }       # Schulstandort (Unterobjekt)
+  FILTER NOT EXISTS { ?schule wdt:P31   wd:Q23002042. }     # Ehemalige Schule
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "de,en" .
+    ?schule rdfs:label ?schuleLabel .
+    ?ausbildungsberufe rdfs:label ?ausbildungsberufeLabel .
+    ?kldb rdfs:label ?kldbLabel .
+    ?teil_von rdfs:label ?teil_vonLabel .
+    ?bestehtAus rdfs:label ?bestehtAusLabel .
+  }
+}
+GROUP BY ?schule ?schuleLabel ?koord ?adresse ?gründung ?jedeschuleID ?schulnummer
+
+
+QUERY 2 (de):
+
+SELECT
+  ?QID
+  ?schuleLabel
+  (GROUP_CONCAT(DISTINCT ?benanntNachLabel; separator="; ") AS ?benanntNach)
+WHERE {
+  VALUES ?typ_schule { wd:Q322563 wd:Q828973 wd:Q1650577 wd:Q829000 }
+
+  ?QID wdt:P31 ?typ_schule ;
+       wdt:P17 wd:Q183 ;
+       p:P138 ?benennungStatement .
+
+  ?benennungStatement ps:P138 ?benanntNach .
+  FILTER NOT EXISTS { ?benennungStatement pq:P582 ?enddatum. }
+
+  ?benanntNach wdt:P31 ?typBenennung .
+  FILTER (?typBenennung IN (wd:Q5, wd:Q8436, wd:Q13417114))
+
+  # Ausschlüsse
+  FILTER NOT EXISTS { ?QID wdt:P576 ?aufloesung. }
+  FILTER NOT EXISTS { ?QID wdt:P3999 ?schließung. }
+  FILTER NOT EXISTS { ?QID wdt:P1366 ?ersetztDurch. }
+  FILTER NOT EXISTS { ?QID wdt:P31 wd:Q423208. }
+  FILTER NOT EXISTS { ?QID wdt:P31 wd:Q23002042. }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "de" .
+    ?QID rdfs:label ?schuleLabel .
+    ?benanntNach rdfs:label ?benanntNachLabel .
+  }
+}
+GROUP BY ?QID ?schuleLabel
+
+QUERY 3 (en):
+
+SELECT ?QID ?schoolLabel ?coordinates ?address ?foundation ?jedeschuleID ?school_number
+       (GROUP_CONCAT(DISTINCT CONCAT(?training_occupationsLabel_en, " [", COALESCE(?kldbLabel_en, "–"), "]"); separator="; ") AS ?training_occupations)
+       (GROUP_CONCAT(DISTINCT ?part_ofLabel; separator="; ") AS ?part_of)
+       (GROUP_CONCAT(DISTINCT ?consists_ofLabel; separator="; ") AS ?consists_of)
+       (GROUP_CONCAT(DISTINCT STR(?website); separator="; ") AS ?website)
+WHERE {
+  VALUES ?type_school { wd:Q322563 wd:Q828973 wd:Q1650577 wd:Q829000 wd:Q23005337 }
+
+  ?QID wdt:P31 ?type_school ;
+          wdt:P17 wd:Q183 ;
+          wdt:P101 ?training_occupations .
+
+  OPTIONAL { ?QID wdt:P625  ?coordinates. }
+  OPTIONAL {
+    ?QID p:P6375 ?addrStmt .
+    ?addrStmt ps:P6375 ?address .
+    FILTER NOT EXISTS { ?addrStmt pq:P582 ?end. }
+  }
+
+  OPTIONAL { ?training_occupations wdt:P1021 ?kldb. }
+  OPTIONAL { ?QID wdt:P361  ?part_of. }
+  OPTIONAL { ?QID wdt:P527  ?consists_of. }
+  OPTIONAL { ?QID wdt:P856  ?website. }
+  OPTIONAL { ?QID wdt:P571  ?foundation. }
+  OPTIONAL { ?QID wdt:P9224 ?jedeschuleID. }
+
+  # school number
+  OPTIONAL { ?QID wdt:P12123 ?s1. }
+  OPTIONAL { ?QID wdt:P12350 ?s2. }
+  OPTIONAL { ?QID wdt:P13491 ?s3. }
+  OPTIONAL { ?QID wdt:P12274 ?s4. }
+  BIND(COALESCE(STR(?s1), STR(?s2), STR(?s3), STR(?s4)) AS ?school_number)
+
+  # Exclusion
+  FILTER NOT EXISTS { ?QID wdt:P576  ?dissolved. }
+  FILTER NOT EXISTS { ?QID wdt:P1366 ?replacedBy. }
+  FILTER NOT EXISTS { ?QID wdt:P3999 ?closed. }
+  FILTER NOT EXISTS { ?QID wdt:P31   wd:Q423208. }
+  FILTER NOT EXISTS { ?QID wdt:P31   wd:Q23002042. }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en".
+    ?QID rdfs:label ?schoolLabel.
+    ?part_of rdfs:label ?part_ofLabel.
+    ?consists_of rdfs:label ?consists_ofLabel.
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en".
+    ?training_occupations rdfs:label ?training_occupationsLabel_en.
+    ?kldb rdfs:label ?kldbLabel_en.
+  }
+}
+GROUP BY ?QID ?schoolLabel ?coordinates ?address ?foundation ?jedeschuleID ?school_number
+
+QUERY 4 (en):
+
+SELECT
+  ?QID
+  ?schoolLabel
+  (GROUP_CONCAT(DISTINCT ?namedAfterLabel; separator="; ") AS ?namedAfter)
+WHERE {
+  VALUES ?type_school { wd:Q322563 wd:Q828973 wd:Q1650577 wd:Q829000 }
+
+  ?QID wdt:P31 ?type_school ;
+          wdt:P17 wd:Q183 ;
+          p:P138 ?named_afterStatement .
+
+  ?named_afterStatement ps:P138 ?namedAfter .
+  FILTER NOT EXISTS { ?named_afterStatement pq:P582 ?end_time . }
+
+  ?namedAfter wdt:P31 ?namedAfter_type .
+  FILTER (?namedAfter_type IN (wd:Q5, wd:Q8436, wd:Q13417114))
+  
+  # Exclusion
+  FILTER NOT EXISTS { ?QID wdt:P576 ?dissolved . }
+  FILTER NOT EXISTS { ?QID wdt:P3999 ?closed . }
+  FILTER NOT EXISTS { ?QID wdt:P1366 ?replaced_by . }
+  FILTER NOT EXISTS { ?QID wdt:P31 wd:Q423208 . }
+  FILTER NOT EXISTS { ?QID wdt:P31 wd:Q23002042 . }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "de,en" .
+    ?QID rdfs:label ?schoolLabel .
+    ?namedAfter rdfs:label ?namedAfterLabel .
+  }
+}
+GROUP BY ?QID ?schoolLabel

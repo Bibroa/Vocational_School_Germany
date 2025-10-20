@@ -1,0 +1,594 @@
+QID,schuleLabel,benanntNach
+http://www.wikidata.org/entity/Q133853981,Ludwig-Erhard-Berufskolleg Paderborn,Ludwig Erhard
+http://www.wikidata.org/entity/Q133853995,Richard-von-Weizsäcker-Berufskolleg Paderborn,Richard von Weizsäcker
+http://www.wikidata.org/entity/Q133871396,Richard-von-Weizsäcker-Berufskolleg Lüdinghausen,Richard von Weizsäcker
+http://www.wikidata.org/entity/Q133868063,Anne-Frank-Berufskolleg,Anne Frank
+http://www.wikidata.org/entity/Q133852292,Albrecht-Dürer-Berufskolleg,Albrecht Dürer
+http://www.wikidata.org/entity/Q133867731,Mercator Berufskolleg Moers,Gerhard Mercator
+http://www.wikidata.org/entity/Q133876991,Robert-Schuman-Berufskolleg Dortmund,Robert Schuman
+http://www.wikidata.org/entity/Q133879080,Lessing-Berufskolleg Düsseldorf,Gotthold Ephraim Lessing
+http://www.wikidata.org/entity/Q133853950,Gregor-Mendel-Berufskolleg des Kreises Paderborn,Gregor Mendel
+http://www.wikidata.org/entity/Q133852310,Walter-Eucken-Berufskolleg,Walter Eucken
+http://www.wikidata.org/entity/Q133865104,Martin-Behaim-Schule,Martin Behaim
+http://www.wikidata.org/entity/Q133871135,Hermann-Gmeiner-Berufskolleg,Hermann Gmeiner
+http://www.wikidata.org/entity/Q133311008,Lise-Meitner-Schule,Lise Meitner
+http://www.wikidata.org/entity/Q133868213,Berufskolleg Lise Meitner,Lise Meitner
+http://www.wikidata.org/entity/Q133871746,Paul-Ehrlich-Berufskolleg Dortmund,Paul Ehrlich
+http://www.wikidata.org/entity/Q133864320,Geschwister-Scholl-Schule,Hans Scholl; Sophie Scholl
+http://www.wikidata.org/entity/Q133871108,Geschwister-Scholl-Berufskolleg Leverkusen,Hans Scholl; Sophie Scholl
+http://www.wikidata.org/entity/Q133849090,Werner-von-Siemens-Schule Köln,Werner von Siemens
+http://www.wikidata.org/entity/Q133814911,Jane-Addams-Schule (Standort Berlin-Hohenschönhausen),Oskar Schindler; Jane Addams
+http://www.wikidata.org/entity/Q133884392,Konrad-Zuse-Schule Hünfeld,Konrad Zuse
+http://www.wikidata.org/entity/Q133883558,Anhaltisches Berufsschulzentrum,Hugo Junkers
+http://www.wikidata.org/entity/Q133868366,Walter-Gropius-Berufskolleg,Walter Gropius
+http://www.wikidata.org/entity/Q133855084,Eduard-Spranger-Berufskolleg,Eduard Spranger
+http://www.wikidata.org/entity/Q133868084,Josef-Pieper-Schule,Josef Pieper
+http://www.wikidata.org/entity/Q133848102,Georg-Kerschensteiner-Berufskolleg,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q133868997,Elisabeth-von-der-Pfalz-Berufskolleg,Elisabeth von der Pfalz
+http://www.wikidata.org/entity/Q133869826,Reinhard-Mohn-Berufskolleg für Wirtschaft und Verwaltung,Reinhard Mohn
+http://www.wikidata.org/entity/Q133855165,Paul-Spiegel-Berufskolleg Warendorf,Paul Spiegel
+http://www.wikidata.org/entity/Q133868963,Paul-Spiegel-Berufskolleg Dorsten,Paul Spiegel
+http://www.wikidata.org/entity/Q133851049,Karl-Schiller-Berufskolleg für Wirtschaft und Verwaltung,Karl Schiller
+http://www.wikidata.org/entity/Q133850947,Carl-Severing-Berufskolleg für Handwerk und Technik,Carl Severing
+http://www.wikidata.org/entity/Q133868171,Carl-Severing-Berufskolleg für Metall- und Elektrotechnik,Carl Severing
+http://www.wikidata.org/entity/Q133871094,Carl-Severing-Berufskolleg für Wirtschaft und Verwaltung,Carl Severing
+http://www.wikidata.org/entity/Q133854070,Mildred-Scheel-Berufskolleg,Mildred Scheel
+http://www.wikidata.org/entity/Q133869012,Wilhelm-Normann-Berufskolleg,Wilhelm Normann
+http://www.wikidata.org/entity/Q133855218,Elisabeth-Lüders-Berufskolleg,Marie-Elisabeth Lüders
+http://www.wikidata.org/entity/Q133883445,Gertrud-Bäumer-Berufskolleg Duisburg,Gertrud Bäumer
+http://www.wikidata.org/entity/Q133849110,Nicolaus-August-Otto-Berufskolleg,Nicolaus Otto
+http://www.wikidata.org/entity/Q133848083,Nell-Breuning-Berufskolleg in Frechen,Oswald von Nell-Breuning
+http://www.wikidata.org/entity/Q133871406,Oswald-von-Nell-Breuning-Berufskolleg Coesfeld,Oswald von Nell-Breuning
+http://www.wikidata.org/entity/Q133855137,Johann-Conrad-Schlaun-Berufskolleg,Johann Conrad Schlaun
+http://www.wikidata.org/entity/Q133884313,Friedrich-Dessauer-Schule,Friedrich Dessauer
+http://www.wikidata.org/entity/Q133869467,Lore-Lorentz-Schule,Lore Lorentz
+http://www.wikidata.org/entity/Q133858504,Hans-Böckler-Berufskolleg Münster,Hans Böckler
+http://www.wikidata.org/entity/Q133863544,Hans-Böckler-Berufskolleg Köln,Hans Böckler
+http://www.wikidata.org/entity/Q133874454,Hans-Böckler-Berufskolleg Oberhausen,Hans Böckler
+http://www.wikidata.org/entity/Q133851064,Erich-Gutenberg-Berufskolleg für Wirtschaft und Verwaltung,Erich Gutenberg
+http://www.wikidata.org/entity/Q133874070,Käthe-Kollwitz-Berufskolleg Oberhausen,Käthe Kollwitz
+http://www.wikidata.org/entity/Q133814881,Jane-Addams-Schule (Standort Berlin-Friedrichshain),Jane Addams
+http://www.wikidata.org/entity/Q133869709,Freiherr-vom-Stein-Berufskolleg Werne,Heinrich Friedrich Karl vom und zum Stein
+http://www.wikidata.org/entity/Q133871727,Freiherr-vom-Stein-Berufskolleg Minden,Heinrich Friedrich Karl vom und zum Stein
+http://www.wikidata.org/entity/Q133854059,Wilhelm-Emmanuel-von-Ketteler-Berufskolleg,Wilhelm Emmanuel von Ketteler
+http://www.wikidata.org/entity/Q133869928,August-Griese-Berufskolleg,August Griese
+http://www.wikidata.org/entity/Q133868349,August-Vetter-Berufskolleg,August Vetter
+http://www.wikidata.org/entity/Q133858965,Rudolf-Rempel-Berufskolleg,Rudolf Rempel
+http://www.wikidata.org/entity/Q133851073,Pictorius-Berufskolleg,Pictorius
+http://www.wikidata.org/entity/Q133865075,Eugen-Kaiser-Schule,Eugen Kaiser
+http://www.wikidata.org/entity/Q133871313,Thomas-Eßer-Berufskolleg Euskirchen,Thomas Eßer
+http://www.wikidata.org/entity/Q133871115,Gisbert-von-Romberg-Berufskolleg Dortmund,Gisbert von Romberg I.
+http://www.wikidata.org/entity/Q133869839,Hans-Schwier-Berufskolleg,Hans Schwier
+http://www.wikidata.org/entity/Q133853910,Alexandrine-Hegemann-Berufskolleg,Alexandrine Hegemann
+http://www.wikidata.org/entity/Q133868391,Robert-Wetzlar-Berufskolleg,Robert Wetzlar
+http://www.wikidata.org/entity/Q133868090,Hubertus-Schwartz-Berufskolleg,Hubertus Schwartz
+http://www.wikidata.org/entity/Q133865239,Augustin-Violet-Schule,Augustin Violet
+http://www.wikidata.org/entity/Q133876322,Hermann-Emanuel-Berufskolleg,Hermann Emanuel
+http://www.wikidata.org/entity/Q133849135,Barbara-von-Sell-Berufskolleg,Barbara von Sell
+http://www.wikidata.org/entity/Q133858988,Maria-Stemme-Berufskolleg der Stadt Bielefeld,Maria Stemme
+http://www.wikidata.org/entity/Q133854746,Berufskolleg Vera Beckers,Vera Beckers
+http://www.wikidata.org/entity/Q133868858,Katholisches Berufskolleg Johannes-Kessels-Akademie Essen,Johannes Kessels
+http://www.wikidata.org/entity/Q110819500,Ludwig-Erhard-Schule Mosbach,Ludwig Erhard
+http://www.wikidata.org/entity/Q1237028,Theodor-Heuss-Schule Reutlingen,Theodor Heuss
+http://www.wikidata.org/entity/Q119294821,John F. Kennedy Schule Esslingen,John F. Kennedy
+http://www.wikidata.org/entity/Q132168196,Mies-van-der-Rohe-Schule,Ludwig Mies van der Rohe
+http://www.wikidata.org/entity/Q130894421,Albert-Schweitzer-Schule,Albert Schweitzer
+http://www.wikidata.org/entity/Q117815382,Berufliches Schulzentrum „Otto Lilienthal“ Freital-Dippoldiswalde,Otto Lilienthal
+http://www.wikidata.org/entity/Q130239001,Wilhelm-Schickard-Schule,Wilhelm Schickard
+http://www.wikidata.org/entity/Q123417264,Werner-von-Siemens-Schule Wetzlar,Werner von Siemens
+http://www.wikidata.org/entity/Q116319132,Johann-Joachim-Becher-Schule,Johann Joachim Becher
+http://www.wikidata.org/entity/Q112972506,Kerschensteinerschule Reutlingen,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q118903380,Balthasar-Neumann-Schule I,Balthasar Neumann
+http://www.wikidata.org/entity/Q105045334,Max-Taut-Schule,Max Taut
+http://www.wikidata.org/entity/Q107533919,Mildred-Scheel-Schule Böblingen,Mildred Scheel
+http://www.wikidata.org/entity/Q1146885,Gebhard-Müller-Schule Biberach,Gebhard Müller
+http://www.wikidata.org/entity/Q128396399,Hermann-Höcherl-Schule Staatliche Berufsschule Regensburg,Hermann Höcherl
+http://www.wikidata.org/entity/Q132447065,Paul-Julius-Reuter-Berufskolleg für Wirtschaft und Verwaltung der Städteregion Aachen,Paul Julius Reuter
+http://www.wikidata.org/entity/Q120029490,Robert-Bosch-Schule,Robert Bosch
+http://www.wikidata.org/entity/Q1223619,Dietrich-Bonhoeffer-Berufskolleg,Dietrich Bonhoeffer
+http://www.wikidata.org/entity/Q105710596,Staatliche Fachschule für Sozialpädagogik - Fröbelseminar,Friedrich Fröbel
+http://www.wikidata.org/entity/Q1255296,Wilhelm Wagenfeld Schule,Wilhelm Wagenfeld
+http://www.wikidata.org/entity/Q115707656,Heinrich-Hübsch-Gewerbeschule,Heinrich Hübsch
+http://www.wikidata.org/entity/Q121076634,Haus- und Landwirtschaftliche Berufsschule,Hilde Domin
+http://www.wikidata.org/entity/Q105045330,Loschmidt-Oberschule,Johann Josef Loschmidt
+http://www.wikidata.org/entity/Q126203054,Konrad-Wachsmann-Oberstufenzentrum,Konrad Wachsmann
+http://www.wikidata.org/entity/Q108327134,Oscar-Tietz-Schule,Oscar Tietz
+http://www.wikidata.org/entity/Q130467742,Theodor-Litt-Schule Gießen,Theodor Litt
+http://www.wikidata.org/entity/Q108327070,Rahel-Hirsch-Schule,Rahel Hirsch
+http://www.wikidata.org/entity/Q111745263,Kilian-von-Steiner-Schule Laupheim,Kilian von Steiner
+http://www.wikidata.org/entity/Q123176982,Max-Bill-Schule,Max Bill
+http://www.wikidata.org/entity/Q108294348,Kaufmännisches Berufskolleg Walther Rathenau,Walther Rathenau
+http://www.wikidata.org/entity/Q132447064,Käthe-Kollwitz-Schule Berufskolleg der Städteregion Aachen,Käthe Kollwitz
+http://www.wikidata.org/entity/Q131841060,Klingerschule,Friedrich Maximilian Klinger
+http://www.wikidata.org/entity/Q130601232,Vinzenz-von-Paul-Berufskolleg,Vinzenz von Paul
+http://www.wikidata.org/entity/Q115401000,Carl-Gotthard-Langhans-Schule,Carl Gotthard Langhans
+http://www.wikidata.org/entity/Q118205831,Heinrich-Büssing-Schule,Heinrich Büssing
+http://www.wikidata.org/entity/Q111132752,Augusta-Bender-Schule Mosbach,Augusta Bender
+http://www.wikidata.org/entity/Q1247526,Valckenburgschule Ulm,Johan van Valckenburgh
+http://www.wikidata.org/entity/Q112972504,Ferdinand-von-Steinbeis-Schule Reutlingen,Ferdinand von Steinbeis
+http://www.wikidata.org/entity/Q1250029,Konrad-Klepping-Berufskolleg,Konrad Klepping
+http://www.wikidata.org/entity/Q112972507,Laura-Schradin-Schule,Laura Schradin
+http://www.wikidata.org/entity/Q118205834,Helene-Engelbrecht-Schule,Helene Engelbrecht
+http://www.wikidata.org/entity/Q1243116,Johann-Friedrich-Pierer-Schule Altenburg,Johann Friedrich Pierer
+http://www.wikidata.org/entity/Q118205889,Johannes-Selenka-Schule,Johannes Selenka
+http://www.wikidata.org/entity/Q118205664,Martha-Fuchs-Schule,Martha Fuchs
+http://www.wikidata.org/entity/Q118206023,Otto-Bennemann-Schule,Otto Bennemann
+http://www.wikidata.org/entity/Q112564,Berufsbildende Schulen IV „Dr. Otto Schlein“,Otto Josef Schlein
+http://www.wikidata.org/entity/Q114697,BBS Technik Harald-Fissler-Schule Idar-Oberstein,Harald Fissler
+http://www.wikidata.org/entity/Q106421197,Anna-Warburg-Schule,Anna Warburg
+http://www.wikidata.org/entity/Q106255675,Berufsbildungszentrum Dr. Jürgen Ulderup,Jürgen Ulderup
+http://www.wikidata.org/entity/Q1036571,Carl-Reuther-Berufskolleg  Hennef,Carl Reuther
+http://www.wikidata.org/entity/Q107412755,Johann-Vießmann-Schule,Johann Vießmann
+http://www.wikidata.org/entity/Q130283554,Philipp-Holzmann-Schule Frankfurt am Main,Philipp Holzmann
+http://www.wikidata.org/entity/Q1281535,Wilhelm-Knapp-Schule,Wilhelm Knapp
+http://www.wikidata.org/entity/Q113026388,Ludwig-Geißler-Schule,Ludwig Geißler
+http://www.wikidata.org/entity/Q1287824,Eduard-Stieler-Schule,Eduard Stieler
+http://www.wikidata.org/entity/Q134106582,Ludwig-Erhard-Schule Salzgitter,Ludwig Erhard
+http://www.wikidata.org/entity/Q134291068,Ludwig-Erhard-Schule Neuwied,Ludwig Erhard
+http://www.wikidata.org/entity/Q134355843,Ludwig-Erhard-Schule Karlsruhe,Ludwig Erhard
+http://www.wikidata.org/entity/Q134357387,Ludwig-Erhard-Schule Sigmaringen,Ludwig Erhard
+http://www.wikidata.org/entity/Q134087077,Helmut Schmidt Schule,Helmut Schmidt
+http://www.wikidata.org/entity/Q134170188,Wilhelm-Ostwald-Schule,Wilhelm Ostwald
+http://www.wikidata.org/entity/Q134125986,Comenius-Schule Freistatt,Johann Amos Comenius
+http://www.wikidata.org/entity/Q134104222,Justus-von-Liebig-Schule Hannover,Justus von Liebig
+http://www.wikidata.org/entity/Q134307620,Justus-von-Liebig-Schule Vechta,Justus von Liebig
+http://www.wikidata.org/entity/Q134288801,Berufsbildende Schule Technik Koblenz,Carl Benz
+http://www.wikidata.org/entity/Q134355761,Carl-Benz-Schule Mannheim,Carl Benz
+http://www.wikidata.org/entity/Q134288728,Geschwister-Scholl-Schule (Standort Hermeskeil),Hans Scholl; Sophie Scholl
+http://www.wikidata.org/entity/Q134084097,"Berufliches Schulzentrum für Technik ""August Horch""",August Horch
+http://www.wikidata.org/entity/Q134313185,Werner-von-Siemens-Schule Hildesheim,Werner von Siemens
+http://www.wikidata.org/entity/Q134308726,Berufsbildende Schulen Hannah Arendt,Hannah Arendt
+http://www.wikidata.org/entity/Q134134817,Konrad-Zuse-Schule Berlin,Konrad Zuse
+http://www.wikidata.org/entity/Q134320321,Adolf-Kolping-Schule Lohne,Adolph Kolping
+http://www.wikidata.org/entity/Q134083967,Eduard-Spranger-Schule,Eduard Spranger
+http://www.wikidata.org/entity/Q134288961,Berufsbildende Schule Technik I Ludwigshafen,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134291031,Berufsbildende Schule Naturwissenschaften,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134291292,Berufsbildende Schule Technik II Ludwigshafen,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134308166,Kerschensteiner Schule der Stadt Delmenhorst,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134357446,Kerschensteinerschule Stuttgart,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134355826,Balthasar-Neumann-Schule II,Balthasar Neumann
+http://www.wikidata.org/entity/Q134126491,August-Sander-Schule,August Sander
+http://www.wikidata.org/entity/Q134105819,Albrecht-Thaer-Schule,Albrecht Daniel Thaer
+http://www.wikidata.org/entity/Q134127202,Hermann-Scheer-Schule,Hermann Scheer
+http://www.wikidata.org/entity/Q134136402,Knobelsdorff-Schule,Georg Wenzeslaus von Knobelsdorff
+http://www.wikidata.org/entity/Q134083773,"Berufliches Schulzentrum für Technik und Wirtschaft ""Julius Weisbach""",Julius Weisbach
+http://www.wikidata.org/entity/Q134127090,Hans-Litten-Schule,Hans Litten
+http://www.wikidata.org/entity/Q134350677,Wessenberg-Schule,Ignaz Heinrich von Wessenberg
+http://www.wikidata.org/entity/Q134126590,Carl-Legien-Schule,Carl Legien
+http://www.wikidata.org/entity/Q134291139,Hildegard-von-Bingen-Schule Koblenz,Hildegard von Bingen
+http://www.wikidata.org/entity/Q134287931,Nicolaus-August-Otto-Schule,Nicolaus Otto
+http://www.wikidata.org/entity/Q134291103,Sophie-Scholl-Schule,Sophie Scholl
+http://www.wikidata.org/entity/Q134356917,Johann-Philipp-Reis-Schule,Philipp Reis
+http://www.wikidata.org/entity/Q134288674,David-Roentgen-Schule,David Roentgen
+http://www.wikidata.org/entity/Q134355901,Max-Eyth-Schule Kirchheim unter Teck,Max Eyth
+http://www.wikidata.org/entity/Q134136643,Anna-Freud-Schule,Anna Freud
+http://www.wikidata.org/entity/Q134301801,Anna-Freud-Schule Ludwigshafen,Anna Freud
+http://www.wikidata.org/entity/Q134138037,Ruth-Cohn-Schule,Ruth Cohn
+http://www.wikidata.org/entity/Q134356783,Louis-Leitz-Schule,Louis Leitz
+http://www.wikidata.org/entity/Q134135150,Leopold-Ullstein-Schule,Leopold Ullstein
+http://www.wikidata.org/entity/Q134126879,Hans-Böckler-Schule Berlin,Hans Böckler
+http://www.wikidata.org/entity/Q134287876,Alice Salomon Schule Linz,Alice Salomon
+http://www.wikidata.org/entity/Q134311296,Berufsbildende Schulen Cora Berliner,Cora Berliner
+http://www.wikidata.org/entity/Q134312778,Arnoldi-Schule,Ernst Wilhelm Arnoldi
+http://www.wikidata.org/entity/Q134367200,"Staatliches Berufsbildungszentrum Weimar ""Janusz Korczak""",Janusz Korczak
+http://www.wikidata.org/entity/Q134126723,Friedrich-List-Schule Berlin,Friedrich List
+http://www.wikidata.org/entity/Q134126546,Brillat-Savarin-Schule,Jean Anthelme Brillat-Savarin
+http://www.wikidata.org/entity/Q134225124,"Berufliche Schule ""Alexander Schmorell""",Alexander Schmorell
+http://www.wikidata.org/entity/Q134285944,Andreas-Albert-Schule,Andreas Albert
+http://www.wikidata.org/entity/Q134308115,Berufsbildende Schule Anne-Marie Tausch,Anne-Marie Tausch
+http://www.wikidata.org/entity/Q134287867,Carl-Burger-Schule,Carl Burger
+http://www.wikidata.org/entity/Q134084518,"Berufliches Schulzentrum für Gesundheit, Technik und Wirtschaft des Erzgebirgskreises ""Erdmann Kircheis""",Carl Erdmann Kircheis
+http://www.wikidata.org/entity/Q134170743,Eduard-Maurer-Oberstufenzentrum,Eduard Maurer
+http://www.wikidata.org/entity/Q134084126,"Berufliches Schulzentrum für Gastgewerbe Dresden ""Ernst Lößnitzer""",Ernst Lößnitzer
+http://www.wikidata.org/entity/Q134357030,Steinbeisschule Stuttgart,Ferdinand von Steinbeis
+http://www.wikidata.org/entity/Q134083843,"Berufliches Schulzentrum für Technik und Hauswirtschaft ""Dr. Friedrich Dittes""",Friedrich Dittes
+http://www.wikidata.org/entity/Q134127167,Hein-Moeller-Schule,Hein Moeller
+http://www.wikidata.org/entity/Q134288190,Ignaz-Roth-Schule,Ignaz Roth
+http://www.wikidata.org/entity/Q134367164,Sebastian-Lucius-Schule Erfurt,Sebastian Lucius
+http://www.wikidata.org/entity/Q134171243,"Oberstufenzentrum ""Alfred Flakowski""",Alfred Flakowski
+http://www.wikidata.org/entity/Q134083995,Berufliches Schulzentrum Christoph Lüders Görlitz,Johann Christoph Lüders
+http://www.wikidata.org/entity/Q134366915,Marie-Elise-Kayser-Schule Erfurt,Marie Elise Kayser
+http://www.wikidata.org/entity/Q134288386,Julius-Wegeler-Schule,Julius Wegeler
+http://www.wikidata.org/entity/Q134107097,Conerus-Schule,Peter Friedrich Conerus
+http://www.wikidata.org/entity/Q134355982,Louis-Lepoix-Schule Baden-Baden,Louis Lucien Lepoix
+http://www.wikidata.org/entity/Q134318851,Jobelmann-Schule,Wilhelm Heinrich Jobelmann
+http://www.wikidata.org/entity/Q134170426,"Oberstufenzentrum ""Gebrüder Reichstein""",Carl Reichstein; Adolf Reichstein; Hermann Reichstein
+http://www.wikidata.org/entity/Q134170674,"Oberstufenzentrum ""Johanna Just""",Johanna Just
+http://www.wikidata.org/entity/Q134170852,Georg-Mendheim-Oberstufenzentrum,Georg Mendheim
+http://www.wikidata.org/entity/Q134087098,Inge Katz Schule,Inge Katz
+http://www.wikidata.org/entity/Q134288917,Ilse-Lang-Schule,Ilse Lang
+http://www.wikidata.org/entity/Q134367016,"Staatliches Berufsbildungszentrum ""Ernst Arnold"" Greiz-Zeulenroda",Ernst Arnold
+http://www.wikidata.org/entity/Q133890686,Ludwig-Erhard-Berufskolleg Münster,Ludwig Erhard
+http://www.wikidata.org/entity/Q133889454,Reichspräsident-Friedrich-Ebert-Schule,Friedrich Ebert
+http://www.wikidata.org/entity/Q133928292,Friedrich-Ebert-Schule Esslingen am Neckar,Friedrich Ebert
+http://www.wikidata.org/entity/Q133928441,Johannes-Gutenberg-Schule Heidelberg,Johannes Gutenberg
+http://www.wikidata.org/entity/Q133890431,Max-Weber-Berufskolleg Düsseldorf,Max Weber
+http://www.wikidata.org/entity/Q133934054,Max-Weber-Schule Freiburg,Max Weber
+http://www.wikidata.org/entity/Q133932129,Robert-Schuman-Schule Baden-Baden,Robert Schuman
+http://www.wikidata.org/entity/Q133895588,Justus-von-Liebig-Schule Aalen,Justus von Liebig
+http://www.wikidata.org/entity/Q133932572,Bertha-von-Suttner-Schule Ettlingen,Bertha von Suttner
+http://www.wikidata.org/entity/Q133934260,Carl-Benz-Schule Gaggenau,Carl Benz
+http://www.wikidata.org/entity/Q133889029,Werner-Heisenberg-Schule Rüsselsheim am Main,Werner Heisenberg
+http://www.wikidata.org/entity/Q133928906,Robert-Mayer-Schule Stuttgart,Robert Mayer
+http://www.wikidata.org/entity/Q133934200,Droste-Hülshoff-Schule Friedrichshafen,Annette von Droste-Hülshoff
+http://www.wikidata.org/entity/Q133895753,Matthias-Erzberger-Schule,Matthias Erzberger
+http://www.wikidata.org/entity/Q133894060,August-Horch-Schule BBS Andernach,August Horch
+http://www.wikidata.org/entity/Q133931860,Hannah-Arendt-Schule,Hannah Arendt
+http://www.wikidata.org/entity/Q133930693,Walter-Gropius-Schule Hildesheim,Walter Gropius
+http://www.wikidata.org/entity/Q133934212,Hugo-Eckener-Schule,Hugo Eckener
+http://www.wikidata.org/entity/Q133934028,Friedrich-Weinbrenner-Gewerbeschule,Friedrich Weinbrenner
+http://www.wikidata.org/entity/Q133889543,Alice-Eleonoren-Schule,Eleonore zu Solms-Hohensolms-Lich; Alix von Hessen-Darmstadt
+http://www.wikidata.org/entity/Q133895960,Johann-Philipp-Palm-Schule,Johann Philipp Palm
+http://www.wikidata.org/entity/Q133888551,Franz-Böhm-Schule,Franz Böhm
+http://www.wikidata.org/entity/Q133932263,Willy-Hellpach-Schule,Willy Hellpach
+http://www.wikidata.org/entity/Q133932547,Albert-Schäffle-Schule Nürtingen,Albert Schäffle
+http://www.wikidata.org/entity/Q133897056,Claude-Dornier-Schule,Claude Dornier
+http://www.wikidata.org/entity/Q133895862,Fritz-Erler-Schule Tuttlingen,Fritz Erler
+http://www.wikidata.org/entity/Q133932623,Louise-Otto-Peters-Schule Hockenheim,Louise Otto-Peters
+http://www.wikidata.org/entity/Q133930688,Herman-Nohl-Schule Hildesheim,Herman Nohl
+http://www.wikidata.org/entity/Q133932208,Dorothea-Schlözer-Schule,Dorothea Schlözer
+http://www.wikidata.org/entity/Q133926552,Karl-Arnold-Schule Biberach an der Riß,Karl Arnold
+http://www.wikidata.org/entity/Q133934281,Emil-von-Behring-Schule Geislingen,Emil von Behring
+http://www.wikidata.org/entity/Q133932338,Hermann-Gundert-Schule,Hermann Gundert
+http://www.wikidata.org/entity/Q133897183,Heinrich-Wieland-Schule Pforzheim,Heinrich Otto Wieland
+http://www.wikidata.org/entity/Q133895661,Edith-Stein-Schule Aulendorf,Edith Stein
+http://www.wikidata.org/entity/Q133931000,Johann-Heinrich-von-Thünen-Schule Bremervörde,Johann Heinrich von Thünen
+http://www.wikidata.org/entity/Q133932211,Elly-Heuss-Knapp-Schule,Elly Heuss-Knapp
+http://www.wikidata.org/entity/Q133884443,Max-Eyth-Schule Alsfeld,Max Eyth
+http://www.wikidata.org/entity/Q133889789,Max-Eyth-Schule Kassel,Max Eyth
+http://www.wikidata.org/entity/Q133930985,Max-Eyth-Schule Schiffdorf,Max Eyth
+http://www.wikidata.org/entity/Q133884502,Adolf-Reichwein-Schule Limburg a. d. Lahn,Adolf Reichwein
+http://www.wikidata.org/entity/Q133889262,Adolf-Reichwein-Schule Marburg,Adolf Reichwein
+http://www.wikidata.org/entity/Q133891951,"Anni-Albers-Schule für Mode, Medien und Gestaltung",Anni Albers
+http://www.wikidata.org/entity/Q133896990,Philipp-Matthäus-Hahn Schule Balingen,Philipp Matthäus Hahn
+http://www.wikidata.org/entity/Q133931048,Georg-von-Langen-Schule,Johann Georg von Langen
+http://www.wikidata.org/entity/Q133934179,Luise-Büchner-Schule,Luise Büchner
+http://www.wikidata.org/entity/Q133897042,Heinrich-Schickhardt-Schule Freudenstadt,Heinrich Schickhardt
+http://www.wikidata.org/entity/Q133931009,Georg-Sonnin-Schule,Ernst Georg Sonnin
+http://www.wikidata.org/entity/Q133889497,Wilhelm-Merton-Schule,Wilhelm Merton
+http://www.wikidata.org/entity/Q133933727,Eugen-Grimminger-Schule,Eugen Grimminger
+http://www.wikidata.org/entity/Q133895731,Eberhard-Gothein-Schule,Eberhard Gothein
+http://www.wikidata.org/entity/Q133932212,Theodor-Litt-Schule,Theodor Litt
+http://www.wikidata.org/entity/Q133929081,Heinrich-Lanz-Schule,Heinrich Lanz
+http://www.wikidata.org/entity/Q133934237,Robert-Gerwig-Schule Furtwangen,Robert Gerwig
+http://www.wikidata.org/entity/Q133931866,Emil-Possehl-Schule,Emil Possehl
+http://www.wikidata.org/entity/Q133933898,Käthe-Kollwitz-Schule Esslingen,Käthe Kollwitz
+http://www.wikidata.org/entity/Q133884520,Friedrich-List-Schule Darmstadt,Friedrich List
+http://www.wikidata.org/entity/Q133890285,Friedrich-List-Berufskolleg Solingen,Friedrich List
+http://www.wikidata.org/entity/Q133896155,Friedrich-List-Schule Karlsruhe,Friedrich List
+http://www.wikidata.org/entity/Q133930701,Friedrich-List-Schule Hildesheim,Friedrich List
+http://www.wikidata.org/entity/Q133932207,Friedrich-List-Schule Lübeck,Friedrich List
+http://www.wikidata.org/entity/Q133889118,Schulze-Delitzsch-Schule,Hermann Schulze-Delitzsch
+http://www.wikidata.org/entity/Q133897203,Erich-Hauser-Gewerbeschule Rottweil,Erich Hauser
+http://www.wikidata.org/entity/Q133931771,Anna-Haag-Schule Backnang,Anna Haag
+http://www.wikidata.org/entity/Q133889182,Arnold-Bode-Schule,Arnold Bode
+http://www.wikidata.org/entity/Q133891986,Berufliche Schulen Berta Jourdan,Berta Jourdan
+http://www.wikidata.org/entity/Q133932408,Carl-Helbing-Schule Emmendingen,Carl Helbing
+http://www.wikidata.org/entity/Q133932498,Christian-Schmidt-Schule Neckarsulm,Christian Schmidt
+http://www.wikidata.org/entity/Q133930025,Eugen-Reintjes-Schule,Eugen Reintjes
+http://www.wikidata.org/entity/Q133895627,Ferdinand-von-Steinbeis-Schule Tuttlingen,Ferdinand von Steinbeis
+http://www.wikidata.org/entity/Q133895643,Ferdinand-von-Steinbeis-Schule Ulm,Ferdinand von Steinbeis
+http://www.wikidata.org/entity/Q133889166,Landrat-Gruber-Schule,Franz Gruber
+http://www.wikidata.org/entity/Q133929363,Friedrich-August-Haselwander-Gewerbeschule,Friedrich August Haselwander
+http://www.wikidata.org/entity/Q133888492,Heinrich-Kleyer-Schule Frankfurt,Heinrich Kleyer
+http://www.wikidata.org/entity/Q133889666,Herwig-Blankertz-Schule,Herwig Blankertz
+http://www.wikidata.org/entity/Q133932437,Johann-Jakob-Widmann-Schule,Johann Jakob Widmann
+http://www.wikidata.org/entity/Q133897028,Willi-Burth-Schule Bad Saulgau,Willi Burth
+http://www.wikidata.org/entity/Q133932210,Walther-Lehmkuhl-Schule,Walther Lehmkuhl
+http://www.wikidata.org/entity/Q133895802,Johann-Georg-Doertenbach-Schule,Johann Georg Doertenbach
+http://www.wikidata.org/entity/Q133894075,Karl-Hofmann-Schule,Karl Hofmann
+http://www.wikidata.org/entity/Q133932693,Karoline-Breitinger-Schule,Karoline Breitinger
+http://www.wikidata.org/entity/Q133889718,Peter-Paul-Cahensly-Schule,Peter Paul Cahensly
+http://www.wikidata.org/entity/Q133892476,Rudolf-Eberle-Schule,Rudolf Eberle
+http://www.wikidata.org/entity/Q133933785,Theodor-Frey-Schule,Theodor Frey
+http://www.wikidata.org/entity/Q133895648,Walther-Groz-Schule,Walther Groz
+http://www.wikidata.org/entity/Q133897072,Carl-Schaefer-Schule Ludwigsburg,Carl Schaefer
+http://www.wikidata.org/entity/Q133927337,Richard-Fehrenbach-Gewerbeschule,Richard Fehrenbach
+http://www.wikidata.org/entity/Q133896638,Robert-Franck-Schule,Robert Franck
+http://www.wikidata.org/entity/Q133896422,Jakob-Friedrich-Schöllkopf-Schule,Jakob Friedrich Schöllkopf
+http://www.wikidata.org/entity/Q133889622,Elisabeth-Knipping-Schule,Elisabeth Knipping
+http://www.wikidata.org/entity/Q133932743,Georg-Goldstein-Schule Bad Urach,Georg Goldstein
+http://www.wikidata.org/entity/Q133896517,Erich-Bracher-Schule,Erich Bracher
+http://www.wikidata.org/entity/Q133896112,Andreas-Schneider-Schule,Andreas Schneider
+http://www.wikidata.org/entity/Q133934581,Albert-Einstein-Schule Ettlingen,Albert Einstein
+http://www.wikidata.org/entity/Q133974146,Ludwig-Erhard-Schule Schweinfurt,Ludwig Erhard
+http://www.wikidata.org/entity/Q134083069,Ludwig-Erhard-Schule Fürth,Ludwig Erhard
+http://www.wikidata.org/entity/Q134075167,Richard-von-Weizsäcker-Schule Öhringen,Richard von Weizsäcker
+http://www.wikidata.org/entity/Q134030052,Berufliches Schulzentrum Anne Frank Schulteil Falkenstein/Vogtl.,Anne Frank
+http://www.wikidata.org/entity/Q134030077,"Berufliches Schulzentrum für Wirtschaft, Gesundheit, Ernährung und Forstwirtschaft ""Anne Frank"" Plauen",Anne Frank
+http://www.wikidata.org/entity/Q134030236,Berufliches Schulzentrum Anne Frank Schulteil Bad Reiboldsgrün,Anne Frank
+http://www.wikidata.org/entity/Q134067381,Marie-Curie-Schule,Marie Curie
+http://www.wikidata.org/entity/Q134070992,Max-Weber-Schule Sinsheim,Max Weber
+http://www.wikidata.org/entity/Q134076501,Justus-von-Liebig-Schule Mannheim,Justus von Liebig
+http://www.wikidata.org/entity/Q134082028,Justus-von-Liebig-Schule Göppingen,Justus von Liebig
+http://www.wikidata.org/entity/Q134004676,Hans-Wilsdorf-Schule,Hans Wilsdorf
+http://www.wikidata.org/entity/Q134070434,Alexander-Fleming-Schule,Alexander Fleming
+http://www.wikidata.org/entity/Q134077490,Walter-Eucken-Schule Karlsruhe,Walter Eucken
+http://www.wikidata.org/entity/Q134082060,Walter-Eucken-Gymnasium und Kaufmännische Schulen I,Walter Eucken
+http://www.wikidata.org/entity/Q134081742,Carl-Benz-Schule Karlsruhe,Carl Benz
+http://www.wikidata.org/entity/Q133934823,Heinrich-Hertz-Schule,Heinrich Hertz
+http://www.wikidata.org/entity/Q134001501,Joseph-von-Fraunhofer-Schule,Joseph von Fraunhofer
+http://www.wikidata.org/entity/Q134054257,Carl-Theodor-Schule,Karl Theodor
+http://www.wikidata.org/entity/Q133955397,"Gottlieb-Daimler-Schule 2, Standort Böblingen",Gottlieb Daimler
+http://www.wikidata.org/entity/Q134029250,Gottlieb-Daimler-Schule 1,Gottlieb Daimler
+http://www.wikidata.org/entity/Q134029275,Gottlieb-Daimler-Schule 2,Gottlieb Daimler
+http://www.wikidata.org/entity/Q134077361,Geschwister-Scholl-Schule Leutkirch,Hans Scholl; Sophie Scholl
+http://www.wikidata.org/entity/Q134068397,Werner-Siemens-Schule Stuttgart,Werner von Siemens
+http://www.wikidata.org/entity/Q134076408,Werner-von-Siemens-Schule Mannheim,Werner von Siemens
+http://www.wikidata.org/entity/Q134029978,"Berufliches Schulzentrum ""Konrad Zuse""",Konrad Zuse
+http://www.wikidata.org/entity/Q133934693,Carl-Hofer-Schule,Karl Hofer
+http://www.wikidata.org/entity/Q134065942,Maria-Merian-Schule,Maria Sibylla Merian
+http://www.wikidata.org/entity/Q133973457,Ludwig-Bölkow-Schule,Ludwig Bölkow
+http://www.wikidata.org/entity/Q134070685,Erwin-Teufel-Schule,Erwin Teufel
+http://www.wikidata.org/entity/Q134083704,"Berufliches Schulzentrum für Wirtschaft ""Prof. Dr. Zeigner""",Erich Zeigner
+http://www.wikidata.org/entity/Q134070082,Hedwig-Dohm-Schule Stuttgart,Hedwig Dohm
+http://www.wikidata.org/entity/Q134069533,Johann-Friedrich-von-Cotta-Schule Stuttgart,Johann Friedrich Cotta
+http://www.wikidata.org/entity/Q133980233,Martin-Segitz-Schule,Martin Segitz
+http://www.wikidata.org/entity/Q133934309,Helene-Lange-Schule Außenstelle Gengenbach,Helene Lange
+http://www.wikidata.org/entity/Q134075353,Helene-Lange-Schule,Helene Lange
+http://www.wikidata.org/entity/Q134076626,Helene-Lange-Schule Mannheim,Helene Lange
+http://www.wikidata.org/entity/Q133934636,Zeppelin-Gewerbeschule,Ferdinand von Zeppelin
+http://www.wikidata.org/entity/Q133934755,Elisabeth-Selbert-Schule Karlsruhe,Elisabeth Selbert
+http://www.wikidata.org/entity/Q134029169,Berufliches Schulzentrum Oskar-von-Miller  Schwandorf I,Oskar von Miller
+http://www.wikidata.org/entity/Q134082011,Carl-Bosch-Schule,Carl Bosch
+http://www.wikidata.org/entity/Q134082137,Edith-Stein-Schule Freiburg im Breisgau,Edith Stein
+http://www.wikidata.org/entity/Q134029336,Bertha-Benz-Schule,Bertha Benz
+http://www.wikidata.org/entity/Q134083327,Ruth-Pfau-Schule,Ruth Pfau
+http://www.wikidata.org/entity/Q133934675,Carl-Engler-Schule,Carl Engler
+http://www.wikidata.org/entity/Q134075575,Philipp-Matthäus-Hahn-Schule Nürtingen,Philipp Matthäus Hahn
+http://www.wikidata.org/entity/Q134082616,"Berufliches Schulzentrum ""Friedrich Siemens"" Pirna",Friedrich Siemens
+http://www.wikidata.org/entity/Q134083479,Richard-Hartmann-Schule,Richard Hartmann
+http://www.wikidata.org/entity/Q134082285,Helene-Weber-Schule Bad Saulgau,Helene Weber
+http://www.wikidata.org/entity/Q134081957,Christiane-Herzog-Schule,Christiane Herzog
+http://www.wikidata.org/entity/Q133959433,Hans-Glas-Schule,Hans Glas
+http://www.wikidata.org/entity/Q134082785,Karl-Heine-Schule Leipzig,Carl Erdmann Heine
+http://www.wikidata.org/entity/Q134029839,Arwed-Rossbach-Schule,Arwed Roßbach
+http://www.wikidata.org/entity/Q134083302,Henriette-Goldschmidt-Schule,Henriette Goldschmidt
+http://www.wikidata.org/entity/Q133934659,Marie-Baum-Schule,Marie Baum
+http://www.wikidata.org/entity/Q133980429,Franz-Oberthür-Schule,Franz Oberthür
+http://www.wikidata.org/entity/Q133999236,Georg-Schäfer-Schule,Georg Schäfer
+http://www.wikidata.org/entity/Q134071635,Robert-Gerwig-Schule Singen,Robert Gerwig
+http://www.wikidata.org/entity/Q134082706,Felix-Bloch-Schule,Felix Bloch
+http://www.wikidata.org/entity/Q134083623,"Berufliches Schulzentrum Gesundheit und Sozialwesen ""Karl August Lingner""",Karl August Lingner
+http://www.wikidata.org/entity/Q133934610,Walther-Rathenau-Gewerbeschule,Walther Rathenau
+http://www.wikidata.org/entity/Q134083366,Robert-Blum-Schule,Robert Blum
+http://www.wikidata.org/entity/Q134082811,"Berufliches Schulzentrum Delitzsch ""Dr. Hermann Schulze-Delitzsch""",Hermann Schulze-Delitzsch
+http://www.wikidata.org/entity/Q134071216,Friedrich-Hecker-Schule,Friedrich Hecker
+http://www.wikidata.org/entity/Q134068005,Hans-Thoma-Schule,Hans Thoma
+http://www.wikidata.org/entity/Q134005681,Bebo-Wager-Berufsschule,Bebo Wager
+http://www.wikidata.org/entity/Q134067578,Constantin-Vanotti-Schule,Constantin Vanotti
+http://www.wikidata.org/entity/Q134004906,Josef-Greising-Schule,Joseph Greissing
+http://www.wikidata.org/entity/Q134054243,Ehrhart-Schott-Schule,Ehrhart Schott
+http://www.wikidata.org/entity/Q134004346,Mathias-von-Flurl-Schule,Mathias von Flurl
+http://www.wikidata.org/entity/Q134082313,Eduard-Breuninger-Schule Backnang,Eduard Breuninger
+http://www.wikidata.org/entity/Q134082757,"Berufliches Schulzentrum für Wirtschaft ""Franz Ludwig Gehe""",Franz Ludwig Gehe
+http://www.wikidata.org/entity/Q134075872,Fritz-Ruoff-Schule Nürtingen,Fritz Ruoff
+http://www.wikidata.org/entity/Q134065703,Hans-Freudenberg-Schule,Hans Freudenberg
+http://www.wikidata.org/entity/Q134083520,"Berufliches Schulzentrum Großenhain ""Karl Preusker""",Karl Benjamin Preusker
+http://www.wikidata.org/entity/Q134081980,Maria-von-Linden-Schule Heidenheim a.d. Brenz,Maria von Linden
+http://www.wikidata.org/entity/Q134077188,Mathilde-Planck-Schule Ludwigsburg,Mathilde Planck
+http://www.wikidata.org/entity/Q134081875,Peter-Bruckmann-Schule,Peter Bruckmann
+http://www.wikidata.org/entity/Q134029868,Susanna-Eger-Schule,Susanna Eger
+http://www.wikidata.org/entity/Q134065202,Sibilla-Egen-Schule,Sibilla Egen
+http://www.wikidata.org/entity/Q134072291,Alfons-Kern-Schule,Alfons Kern
+http://www.wikidata.org/entity/Q134076292,Max-Hachenburg-Schule Mannheim,Max Hachenburg
+http://www.wikidata.org/entity/Q134004476,Marianne-Rosenbaum-Schule,Marianne Rosenbaum
+http://www.wikidata.org/entity/Q134083133,Klara-Oppenheimer-Schule,Klara Oppenheimer
+http://www.wikidata.org/entity/Q134005514,Heinrich-Thein-Schule,Heinrich Thein
+http://www.wikidata.org/entity/Q134076788,Oscar-Walcker-Schule,Oskar Walcker
+http://www.wikidata.org/entity/Q134025441,Lorenz-Kaim-Schule,Lorenz Kaim
+http://www.wikidata.org/entity/Q134001771,Karl-Peter-Obermaier-Schule Passau,Karl Peter Obermaier
+http://www.wikidata.org/entity/Q134005639,Jakob-Preh-Schule,Jakob Preh
+http://www.wikidata.org/entity/Q134082449,Johannes-Landenberger-Schule,Johannes Landenberger
+http://www.wikidata.org/entity/Q133979873,Nikolaus-Lehner-Schule,Nikolaus Lehner
+http://www.wikidata.org/entity/Q133934779,Engelbert-Bohn-Schule,Engelbert Bohn
+http://www.wikidata.org/entity/Q133999783,Freiherr-von-Rast-Schule,Ferdinand Martin Liebmann Freiherr von Rast
+http://www.wikidata.org/entity/Q134002367,Herbert-Weinberger-Schule,Herbert Weinberger
+http://www.wikidata.org/entity/Q134002753,Johann-Bierwirth-Schule Memmingen,Johann Bierwirth
+http://www.wikidata.org/entity/Q134066318,David-Würth-Schule,David Würth
+http://www.wikidata.org/entity/Q134074374,Josef-Durler-Schule Rastatt,Josef Durler
+http://www.wikidata.org/entity/Q40065808,Konrad-Adenauer-Schule,Konrad Adenauer
+http://www.wikidata.org/entity/Q136513495,Richard-von-Weizsäcker-Berufskolleg Büren,Richard von Weizsäcker
+http://www.wikidata.org/entity/Q136513546,Richard-von-Weizsäcker-Berufskolleg Dülmen,Richard von Weizsäcker
+http://www.wikidata.org/entity/Q45060300,Heinrich-Hertz-Europakolleg,Heinrich Hertz
+http://www.wikidata.org/entity/Q136533581,August-Horch-Berufsschule Münchberg,August Horch
+http://www.wikidata.org/entity/Q365248,Adolph-Kolping-Berufskolleg Münster,Adolph Kolping
+http://www.wikidata.org/entity/Q42699699,Eckener-Schule RBZ Flensburg,Hugo Eckener; Alexander Eckener
+http://www.wikidata.org/entity/Q135645970,Albrecht-Thaer-Schule Außenstelle Wittinger Straße,Albrecht Daniel Thaer
+http://www.wikidata.org/entity/Q33216141,Emil-Fischer-Schule,Emil Fischer
+http://www.wikidata.org/entity/Q87750613,Julius-Springer-Schule Heidelberg,Julius Springer
+http://www.wikidata.org/entity/Q63441327,Robert-Schmidt-Berufskolleg,Robert Schmidt
+http://www.wikidata.org/entity/Q65242697,Oswald-von-Nell-Breuning-Schule,Oswald von Nell-Breuning
+http://www.wikidata.org/entity/Q136535505,Peter-Behrens-Schule Außenstelle Martin-Buber-Straße,Peter Behrens
+http://www.wikidata.org/entity/Q55524743,Wilhelm-Maybach-Schule Heilbronn,Wilhelm Maybach
+http://www.wikidata.org/entity/Q89489747,Wilhelm-Maybach-Schule Stuttgart,Wilhelm Maybach
+http://www.wikidata.org/entity/Q88961287,Maria-Furtwängler-Schule,Maria Furtwängler
+http://www.wikidata.org/entity/Q63847840,Emil Molt Akademie,Emil Molt
+http://www.wikidata.org/entity/Q65038375,Max-Eyth-Schule Stuttgart,Max Eyth
+http://www.wikidata.org/entity/Q829063,Berufsschulzentrum August von Parseval Bitterfeld-Wolfen,August von Parseval
+http://www.wikidata.org/entity/Q136457534,"Berufliches Schulzentrum ""Friedrich Siemens"" Pirna Schulteil Siegfried Rädel Straße",Friedrich Siemens
+http://www.wikidata.org/entity/Q99896724,Carl-Hahn-Schule,Carl Hahn junior
+http://www.wikidata.org/entity/Q60773379,Louise-Schroeder-Schule,Louise Schroeder
+http://www.wikidata.org/entity/Q136486641,Alice-Salomon-Schule Standort Herrenhausen,Alice Salomon
+http://www.wikidata.org/entity/Q33280305,Anna-Siemsen-Schule,Anna Siemsen
+http://www.wikidata.org/entity/Q828994,Mulvany Berufskolleg Herne,William Thomas Mulvany
+http://www.wikidata.org/entity/Q135654257,Felix-Bloch-Schule Außenstelle Neustädter Straße,Felix Bloch
+http://www.wikidata.org/entity/Q134973304,Brillat-Savarin-Schule (Filiale Neu-Hohenschönhausen),Jean Anthelme Brillat-Savarin
+http://www.wikidata.org/entity/Q84600064,Bethmannschule,Bethmann
+http://www.wikidata.org/entity/Q348372,Adam-Josef-Cüppers-Berufskolleg,Adam Josef Cüppers
+http://www.wikidata.org/entity/Q135726879,Agnes-Karll-Schule,Agnes Karll
+http://www.wikidata.org/entity/Q135704125,Andreas-Gordon-Schule Schulteil Neuerbeschule,Andreas Gordon
+http://www.wikidata.org/entity/Q136535643,Wilhelm-Emmanuel-von-Ketteler-Berufskolleg Außenstelle Beckstraße,Wilhelm Emmanuel von Ketteler
+http://www.wikidata.org/entity/Q135653560,"Berufliches Schulzentrum für Gesundheit, Technik und Wirtschaft des Erzgebirgskreises ""Erdmann Kircheis"" Standort Aue",Carl Erdmann Kircheis
+http://www.wikidata.org/entity/Q135653651,"Berufliches Schulzentrum für Gesundheit, Technik und Wirtschaft des Erzgebirgskreises ""Erdmann Kircheis"" Standort Bad Schlema",Carl Erdmann Kircheis
+http://www.wikidata.org/entity/Q66004954,Heinrich-Meidinger-Schule,Heinrich Meidinger
+http://www.wikidata.org/entity/Q136533384,Hans-Viessmann-Schule Standort Bad Wildungen,Hans Vießmann
+http://www.wikidata.org/entity/Q136457261,"Berufliches Schulzentrum für Technik und Hauswirtschaft ""Dr. Friedrich Dittes"" Standort Schillerplatz",Friedrich Dittes
+http://www.wikidata.org/entity/Q828807,Berufsbildende Schulen J.P.C. Heinrich Mette Quedlinburg,Heinrich Mette
+http://www.wikidata.org/entity/Q136536821,Berufsbildende Schulen Hermann Beims Standort Bodestraße,Hermann Beims
+http://www.wikidata.org/entity/Q136533031,Julius-Wegeler-Schule Außenstelle Finkenherd,Julius Wegeler
+http://www.wikidata.org/entity/Q77321214,BBS-ME Otto-Brenner-Schule,Otto Brenner
+http://www.wikidata.org/entity/Q64431608,Rüdiger-Butte-Schule,Rüdiger Butte
+http://www.wikidata.org/entity/Q135726742,Johann-Peter-Schäfer-Schule,Johann Peter Schäfer
+http://www.wikidata.org/entity/Q59771103,Johanna-Wittum-Schule,Johanna Wittum
+http://www.wikidata.org/entity/Q135726770,Johannes-Vatter-Schule,Johannes Vatter
+http://www.wikidata.org/entity/Q136533534,Helmut-Wagner-Berufsschule Rehau,Helmut Wagner
+http://www.wikidata.org/entity/Q135703909,"Staatliches Berufsbildungszentrum ""Ernst Arnold"" Schulteil Zeulenroda-Triebes",Ernst Arnold
+http://www.wikidata.org/entity/Q1503437,Georg-Simon-Ohm-Berufskolleg,Georg Simon Ohm
+http://www.wikidata.org/entity/Q1874078,Ludwig-Erhard-Berufskolleg Bonn,Ludwig Erhard
+http://www.wikidata.org/entity/Q1874086,Ludwig-Erhard-Schule Pforzheim,Ludwig Erhard
+http://www.wikidata.org/entity/Q15132081,Theodor-Heuss-Schule (Offenbach am Main),Theodor Heuss
+http://www.wikidata.org/entity/Q1697086,Johannes-Gutenberg-Schule,Johannes Gutenberg
+http://www.wikidata.org/entity/Q25393095,Gutenbergschule Leipzig,Johannes Gutenberg
+http://www.wikidata.org/entity/Q28549959,Gutenbergschule Frankfurt am Main,Johannes Gutenberg
+http://www.wikidata.org/entity/Q23786553,Robert-Schuman-Berufskolleg Essen,Robert Schuman
+http://www.wikidata.org/entity/Q1509502,Georgsanstalt,Georg V. von Hannover
+http://www.wikidata.org/entity/Q1912001,Max-Born-Berufskolleg,Max Born
+http://www.wikidata.org/entity/Q28805447,Berufsbildende Schulen Otto von Guericke,Otto von Guericke
+http://www.wikidata.org/entity/Q1714747,Leo-von-Klenze-Schule,Leo von Klenze
+http://www.wikidata.org/entity/Q1457663,Friedrich-Albert-Lange-Berufskolleg,Friedrich Albert Lange
+http://www.wikidata.org/entity/Q28777868,Wilhelm-Röpke-Schule Ettlingen,Wilhelm Röpke
+http://www.wikidata.org/entity/Q1555507,Gustav-von-Schmoller-Schule Heilbronn,Gustav Schmoller
+http://www.wikidata.org/entity/Q2148886,Richard-Riemerschmid-Berufskolleg,Richard Riemerschmid
+http://www.wikidata.org/entity/Q2073459,Peter-Lenné-Schule,Peter Joseph Lenné
+http://www.wikidata.org/entity/Q1528721,Heinz-Nixdorf-Berufskolleg,Heinz Nixdorf
+http://www.wikidata.org/entity/Q1487534,Alfred-Müller-Armack-Berufskolleg,Alfred Müller-Armack
+http://www.wikidata.org/entity/Q29643995,"Berufliches Schulzentrum für Technik ""Gustav Anton Zeuner""",Gustav Zeuner
+http://www.wikidata.org/entity/Q2156201,Robert-Bosch-Berufskolleg Dortmund,Robert Bosch
+http://www.wikidata.org/entity/Q2156209,Robert-Bosch-Schule Ulm,Robert Bosch
+http://www.wikidata.org/entity/Q15126280,Robert-Bosch-Berufskolleg Duisburg,Robert Bosch
+http://www.wikidata.org/entity/Q1465357,Fritz-Erler-Schule Pforzheim,Fritz Erler
+http://www.wikidata.org/entity/Q1515502,Gertrud-Bäumer-Berufskolleg Lüdenscheid,Gertrud Bäumer
+http://www.wikidata.org/entity/Q30090062,Elisabeth-Selbert-Schule Hameln,Elisabeth Selbert
+http://www.wikidata.org/entity/Q15123650,Oskar-von-Miller-Schule,Oskar von Miller
+http://www.wikidata.org/entity/Q28124916,August-Bebel-Schule,August Bebel
+http://www.wikidata.org/entity/Q17126894,Peter-Behrens-Schule,Peter Behrens
+http://www.wikidata.org/entity/Q29793959,Edith-Stein-Schule Ravensburg,Edith Stein
+http://www.wikidata.org/entity/Q15081657,Johann-Philipp-Reis-Schule Friedberg,Philipp Reis
+http://www.wikidata.org/entity/Q27886774,Max-Eyth-Schule Dreieich,Max Eyth
+http://www.wikidata.org/entity/Q1601929,Helene-Weber-Berufskolleg,Helene Weber
+http://www.wikidata.org/entity/Q27959112,Johann-August-Zeune-Schule für Blinde,Johann August Zeune
+http://www.wikidata.org/entity/Q1515507,Gertrud-Luckner-Gewerbeschule,Gertrud Luckner
+http://www.wikidata.org/entity/Q24515277,Heinrich-Emanuel-Merck-Schule,Emanuel Merck
+http://www.wikidata.org/entity/Q1454685,Karl-Volkmar-Stoy-Schule,Karl Volkmar Stoy
+http://www.wikidata.org/entity/Q1576754,Hans-Böckler-Berufskolleg Marl/Haltern,Hans Böckler
+http://www.wikidata.org/entity/Q1692177,Johann-Philipp-Bronner-Schule Wiesloch,Johann Philipp Bronner
+http://www.wikidata.org/entity/Q1509770,Alice-Salomon-Berufskolleg,Alice Salomon
+http://www.wikidata.org/entity/Q2646825,Alice-Salomon-Schule Kleefeld,Alice Salomon
+http://www.wikidata.org/entity/Q19279208,Erich-Gutenberg-Berufskolleg Köln,Erich Gutenberg
+http://www.wikidata.org/entity/Q1744839,Klaus-Steilmann-Berufskolleg,Klaus Steilmann
+http://www.wikidata.org/entity/Q1503434,Georg-Schlesinger-Schule,Georg Schlesinger
+http://www.wikidata.org/entity/Q17353517,Elinor-Ostrom-Schule,Elinor Ostrom
+http://www.wikidata.org/entity/Q1457798,Friedrich-List-Berufskolleg Herford,Friedrich List
+http://www.wikidata.org/entity/Q1457800,Friedrich-List-Berufskolleg Hamm,Friedrich List
+http://www.wikidata.org/entity/Q1457803,Friedrich-List-Schule Kassel,Friedrich List
+http://www.wikidata.org/entity/Q1457807,Friedrich-List-Schule Wiesbaden,Friedrich List
+http://www.wikidata.org/entity/Q21334538,Fritz-Henßler-Berufskolleg,Fritz Henßler
+http://www.wikidata.org/entity/Q25550264,Heinrich Metzendorf Schule,Heinrich Metzendorf
+http://www.wikidata.org/entity/Q24928595,Leo-Statz-Berufskolleg,Leo Statz
+http://www.wikidata.org/entity/Q17123039,Erasmus-Kittler-Schule,Erasmus Kittler
+http://www.wikidata.org/entity/Q31122436,Richard-Müller-Schule,Richard Müller
+http://www.wikidata.org/entity/Q1494552,Hans-Viessmann-Schule,Hans Vießmann
+http://www.wikidata.org/entity/Q27478647,Berufsbildende Schulen Hermann Beims,Hermann Beims
+http://www.wikidata.org/entity/Q1633039,Hubert-Sternberg-Schule Wiesloch,Hubert Heinrich Adalbert Sternberg
+http://www.wikidata.org/entity/Q26972729,Humpis-Schule,Humpis
+http://www.wikidata.org/entity/Q18286350,Karl Kübel Schule,Karl Kübel
+http://www.wikidata.org/entity/Q1656176,Louis-Baare-Berufskolleg,Louis Baare
+http://www.wikidata.org/entity/Q1538103,Radko-Stöckl-Schule,Radko Stöckl
+http://www.wikidata.org/entity/Q1520487,Rolf-Benz-Schule Nagold,Rolf Benz
+http://www.wikidata.org/entity/Q1706331,Joseph-DuMont-Berufskolleg,Joseph DuMont
+http://www.wikidata.org/entity/Q29138472,Adolf-Kolping-Berufskolleg Kerpen-Horrem,Adolf Kolping
+http://www.wikidata.org/entity/Q15060358,Theobald-Simon-Schule,Theobald Simon
+http://www.wikidata.org/entity/Q20754385,Maria-Lenssen-Berufskolleg,Maria Lenssen
+http://www.wikidata.org/entity/Q2058555,Paul-Kerschensteiner-Schule,Paul Kerschensteiner
+http://www.wikidata.org/entity/Q134367300,Ludwig-Erhard-Schule Erfurt,Ludwig Erhard
+http://www.wikidata.org/entity/Q134438408,Ludwig-Erhard-Schule Frankfurt am Main,Ludwig Erhard
+http://www.wikidata.org/entity/Q134436652,Willy-Brandt-Schule Kassel,Willy Brandt
+http://www.wikidata.org/entity/Q134437674,Willy-Brandt-Schule Gießen,Willy Brandt
+http://www.wikidata.org/entity/Q134550662,Willy-Brandt-Berufskolleg,Willy Brandt
+http://www.wikidata.org/entity/Q134438487,Theodor-Heuss-Schule,Theodor Heuss
+http://www.wikidata.org/entity/Q134446192,Friedrich-Ebert-Schule,Friedrich Ebert
+http://www.wikidata.org/entity/Q135189985,Reichspräsident-Friedrich-Ebert-Schule Standort Homberg,Friedrich Ebert
+http://www.wikidata.org/entity/Q134372758,Marie-Curie-Schule Völklingen,Marie Curie
+http://www.wikidata.org/entity/Q1355112,Martin-Luther-King-Schule,Martin Luther King
+http://www.wikidata.org/entity/Q134451483,Max-Weber-Schule Gießen,Max Weber
+http://www.wikidata.org/entity/Q134551555,Städtisches Hans-Sachs-Berufskolleg,Hans Sachs
+http://www.wikidata.org/entity/Q134437465,Stauffenbergschule Frankfurt,Claus Schenk Graf von Stauffenberg
+http://www.wikidata.org/entity/Q134549711,Bertolt-Brecht-Berufskolleg,Bertolt Brecht
+http://www.wikidata.org/entity/Q134389148,Staatliches Berufsschulzentrum Max-von-Pettenkofer Neuburg an der Donau,Max von Pettenkofer
+http://www.wikidata.org/entity/Q1405040,Ferdinand-Braun-Schule,Ferdinand Braun
+http://www.wikidata.org/entity/Q134437480,Paul-Ehrlich-Schule,Paul Ehrlich
+http://www.wikidata.org/entity/Q134416365,"Berufsbildende Schulen ""Geschwister Scholl""",Hans Scholl; Sophie Scholl
+http://www.wikidata.org/entity/Q134444894,Werner-von-Siemens-Schule Frankfurt,Werner von Siemens
+http://www.wikidata.org/entity/Q135180961,Adolph-Kolping-Berufskolleg Schulteil Kaiser-Wilhelm-Ring,Adolph Kolping
+http://www.wikidata.org/entity/Q135181014,Adolph-Kolping-Berufskolleg Schulteil Lotharingerstraße 8,Adolph Kolping
+http://www.wikidata.org/entity/Q134367243,Walter-Gropius-Schule Erfurt,Walter Gropius
+http://www.wikidata.org/entity/Q134446059,Kerschensteinerschule,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134446169,Georg-Kerschensteiner-Schule,Georg Kerschensteiner
+http://www.wikidata.org/entity/Q134371469,Willi-Graf-Schule St. Ingbert,Willi Graf
+http://www.wikidata.org/entity/Q135189855,Merian-Schule Freiburg,Maria Sibylla Merian
+http://www.wikidata.org/entity/Q1450514,Karl-Schiller-Berufskolleg Dortmund,Karl Schiller
+http://www.wikidata.org/entity/Q134437322,Paul-Julius-von-Reuter-Schule,Paul Julius Reuter
+http://www.wikidata.org/entity/Q134387865,Welserschule,Bartholomäus V. Welser
+http://www.wikidata.org/entity/Q134437793,Elisabeth-Selbert-Schule Lampertheim,Elisabeth Selbert
+http://www.wikidata.org/entity/Q134378814,"Schulzentrum Carl von Ossietzky - Berufliche Schule für Dienstleistung, Gewerbe und Gestaltung",Carl von Ossietzky
+http://www.wikidata.org/entity/Q134378889,Schulzentrum Carl von Ossietzky – Berufliche Schule für Technik,Carl von Ossietzky
+http://www.wikidata.org/entity/Q134437261,Bergiusschule,Friedrich Bergius
+http://www.wikidata.org/entity/Q134378705,Berufsbildende Schulen Sophie Scholl,Sophie Scholl
+http://www.wikidata.org/entity/Q134550503,Sophie-Scholl-Berufskolleg,Sophie Scholl
+http://www.wikidata.org/entity/Q134430390,"Berufsbildende Schulen ""Eike von Repgow""",Eike von Repgow
+http://www.wikidata.org/entity/Q134549817,Elly-Heuss-Knapp-Schule Düsseldorf,Elly Heuss-Knapp
+http://www.wikidata.org/entity/Q134549890,Eugen-Schmalenbach-Berufskolleg,Eugen Schmalenbach
+http://www.wikidata.org/entity/Q1357116,"Ernst-Litfaß-Schule, Oberstufenzentrum Druck- und Medientechnik",Ernst Litfaß
+http://www.wikidata.org/entity/Q1351833,Erich-Brost-Berufskolleg,Erich Brost
+http://www.wikidata.org/entity/Q134367552,"Staatliches Berufsschulzentrum ""Heinrich Ehrhardt""",Heinrich Ehrhardt
+http://www.wikidata.org/entity/Q135181464,"Staatliches Berufsschulzentrum ""Heinrich Ehrhardt"" Schulteil Siebenborn",Heinrich Ehrhardt
+http://www.wikidata.org/entity/Q135181481,"Staatliches Berufsschulzentrum ""Heinrich Ehrhardt"" Schulteil Nordplatz",Heinrich Ehrhardt
+http://www.wikidata.org/entity/Q1403267,Felix-Fechenbach-Berufskolleg,Felix Fechenbach
+http://www.wikidata.org/entity/Q135189716,Gertrud-Luckner-Gewerbeschule Außenstelle Kirchstraße,Gertrud Luckner
+http://www.wikidata.org/entity/Q135181310,Hans-Glas-Schule Außenstelle Landau a.d. Isar,Hans Glas
+http://www.wikidata.org/entity/Q135181343,Hans-Glas-Schule Nebenstelle Pestalozzistraße,Hans Glas
+http://www.wikidata.org/entity/Q135156288,Karl-Heine-Schule Außenstelle Pansastraße,Carl Erdmann Heine
+http://www.wikidata.org/entity/Q135156309,Karl-Heine-Schule Außenstelle Geithainer Straße,Carl Erdmann Heine
+http://www.wikidata.org/entity/Q134549783,Carl-Miele-Berufskolleg,Carl Miele
+http://www.wikidata.org/entity/Q134446039,Louise-Schroeder-Schule Wiesbaden,Louise Schroeder
+http://www.wikidata.org/entity/Q134367266,Ernst-Benary-Schule,Ernst Benary
+http://www.wikidata.org/entity/Q134437386,Hans-Böckler-Schule Frankfurt,Hans Böckler
+http://www.wikidata.org/entity/Q134549683,Anna-Siemsen-Berufskolleg des Kreises Herford,Anna Siemsen
+http://www.wikidata.org/entity/Q134528747,"Berufsbildende Schulen des Landkreises Saalekreis Standort ""Carl-Wentzel"" Halle",Carl Wentzel
+http://www.wikidata.org/entity/Q134430871,Berufsbildende Schulen III Halle,Johann Christoph von Dreyhaupt
+http://www.wikidata.org/entity/Q134438442,Käthe-Kollwitz-Schule Offenbach,Käthe Kollwitz
+http://www.wikidata.org/entity/Q134445974,Käthe-Kollwitz-Schule Wetzlar,Käthe Kollwitz
+http://www.wikidata.org/entity/Q134451590,Käthe-Kollwitz-Schule Marburg,Käthe Kollwitz
+http://www.wikidata.org/entity/Q134550166,Käthe-Kollwitz Berufskolleg Hagen,Käthe Kollwitz
+http://www.wikidata.org/entity/Q134550181,Käthe-Kollwitz Berufskolleg Remscheid,Käthe Kollwitz
+http://www.wikidata.org/entity/Q1374170,Friedrich-List-Berufskolleg Bonn,Friedrich List
+http://www.wikidata.org/entity/Q134373482,Friedrich-List-Schule Saarbrücken,Friedrich List
+http://www.wikidata.org/entity/Q134416146,"Berufsbildende Schulen IV ""Friedrich List""",Friedrich List
+http://www.wikidata.org/entity/Q134384304,Berufliches Schulzentrum Alois Senefelder,Alois Senefelder
+http://www.wikidata.org/entity/Q134368343,"Staatliche Berufsbildende Schule Wirtschaft/Verwaltung und Ernährung ""Friedrich Justin Bertuch"" Weimar",Friedrich Justin Bertuch
+http://www.wikidata.org/entity/Q134436713,Julius-Leber-Schule Frankfurt,Julius Leber
+http://www.wikidata.org/entity/Q135092709,"Berufliche Schule ""Alexander Schmorell"" Nebenstelle Danziger Straße",Alexander Schmorell
+http://www.wikidata.org/entity/Q134388581,Staatliches Berufliches Schulzentrum Alfons Goppel Schweinfurt,Alfons Goppel
+http://www.wikidata.org/entity/Q134367284,Andreas-Gordon-Schule Erfurt,Andreas Gordon
+http://www.wikidata.org/entity/Q134388139,Bebo-Wager-Schule,Bebo Wager
+http://www.wikidata.org/entity/Q134388381,Städtische Berufsschule II Augsburg,Bebo Wager
+http://www.wikidata.org/entity/Q134371443,Jean Francois Boch Schule,Jean-François Boch
+http://www.wikidata.org/entity/Q134550188,Leo-Sympher-Berufskolleg,Leo Sympher
+http://www.wikidata.org/entity/Q134549761,Herwig-Blankertz-Berufskolleg,Herwig Blankertz
+http://www.wikidata.org/entity/Q134388883,Staatliches kaumännisches Berufsbildungszentrum Jakob Küner Memmingen,Jakob Küner
+http://www.wikidata.org/entity/Q135153282,"Berufliches Schulzentrum Großenhain ""Karl Preusker"" Außenstelle Heinrich-Heine-Straße",Karl Benjamin Preusker
+http://www.wikidata.org/entity/Q135153298,"Berufliches Schulzentrum Großenhain ""Karl Preusker"" Außenstelle Industriestraße",Karl Benjamin Preusker
+http://www.wikidata.org/entity/Q134550629,Nelly-Pütz-Schule,Nelly Pütz
+http://www.wikidata.org/entity/Q134550522,Leopold-Hoesch-Berufskolleg,Leopold Hoesch
+http://www.wikidata.org/entity/Q135190488,Louis-Lepoix-Schule Baden-Baden Außenstelle Cité,Louis Lucien Lepoix
+http://www.wikidata.org/entity/Q134549952,Cuno-Berufskolleg II,Willi Cuno
+http://www.wikidata.org/entity/Q134550055,Cuno-Berufskolleg I,Willi Cuno
+http://www.wikidata.org/entity/Q134371384,Paul-Weber-Schule,Paul Weber
+http://www.wikidata.org/entity/Q134368205,"Staatliche Berufsbildende Schule Wirtschaft/Verwaltung ""Dr. Eduard Amthor""",Eduard Gottlieb Amthor
+http://www.wikidata.org/entity/Q134367257,"Staatliches Berufsschulzentrum ""Hugo Mairich"" Gotha",Hugo Mairich
+http://www.wikidata.org/entity/Q134393945,Städtische Berufsschule für Hauswirtschaft Würzburg,Klara Oppenheimer
+http://www.wikidata.org/entity/Q135153397,Berufsbildende Förderschule August Förster,August Förster
+http://www.wikidata.org/entity/Q134416478,"Berufsbildende Schulen ""Otto Allendorff""",Otto Moritz Allendorff
+http://www.wikidata.org/entity/Q134393732,Berufsschulzentrum Matthäus Runtinger,Matthäus Runtinger
+http://www.wikidata.org/entity/Q134372304,Dr-Walter-Bruch-Schule,Walter Bruch
